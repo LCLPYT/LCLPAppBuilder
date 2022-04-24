@@ -2,7 +2,7 @@
 import Welcome from '@/components/Welcome.vue'</script>
 
 <template>
-  <main>
+<!--  <main>-->
     <Welcome />
-  </main>
+<!--  </main>-->
 </template>
